@@ -888,7 +888,7 @@ rather than simply producing a large amount of RTL.
 
 # Author
 
-**Vikrant**
+**Vikrant Chakradhar Majeti**
 
 Independent hardware-design project focused on exploring:
 
